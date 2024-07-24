@@ -13,8 +13,8 @@ abstract: >-
   
 cover:          assets/images/covers/IPOT.png
 authors:
-  - Yutong Wang *
-  - Sidan Zhu *
+  - Yutong Wang*
+  - Sidan Zhu*
   - Hongteng Xu
   - Dixin Luo†
 links:
