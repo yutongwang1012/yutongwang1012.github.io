@@ -22,27 +22,27 @@ short_bio: >-
 show_portrait: true
 portrait_url: assets/images/photos/profile_wrs.jpg
 portrait_caption: >-
-  我是王荣胜，欢迎访问我的主页~
+  我是王瑜彤，欢迎访问我的主页~
 
 education:
-- name: Macao Polytechnic University
+- name: Beijing Institute of Technology
   logo: assets/images/badges/mpu_master.png
-  position: M.S. in Big Data and Internet of Things
-  date: Sep. 2022 - Jul. 2024
-- name: Henan Polytechnic University
+  position: M.S. in Computer Science
+  date: Sep. 2022 - Jun. 2025
+- name: Beijing Institute of Technology
   logo: assets/images/badges/hpu_bs.png
-  position: B.S. in Computer Science (AI)
-  date: Sep. 2018 - Jul. 2022
+  position: B.S. in Computer Science
+  date: Sep. 2018 - Jun. 2022
   
 experience:
-- name: Qiyuan.Tech
+- name: Ant Group, Alipay
   logo: assets/images/badges/qiyuan.png
-  position: CTO, Reasercher
-  date: Oct. 2023 - Now
-- name: HKUST (GZ) 
+  position: Reaserch Intern
+  date: Apr. 2024 - Now
+- name: VRC Inc.
   logo: assets/images/badges/hkust-gz.png
-  position: Research Assistant (Supervisor is <a href="https://web.archive.org/web/20240717103203/https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/BAI-Yun/yunbai">Yun Bai</a> and <a href="https://cee.rutgers.edu/xiang-liu">Xiang Liu</a>)
-  date: Feb. 2024 -	May 2024
+  position: Reaserch Intern
+  date: Jul. 2023 -	Sep. 2023
 
 
 awards:
@@ -56,13 +56,11 @@ awards:
   date: 2023
 - name: Winner of IEEE UV 2022 "Vision Meets Algae" Object Detection Challenge
   date: 2022
-- name: <a href="https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E7%8E%8B%E8%8D%A3%E8%83%9C">Baidu PaddlePaddle Developers Experts</a>
-  date: 2021
 
 service:
-- name: Reviewer of <a href="https://www.embs.org/jbhi/">Journal of Biomedical and Health Informatics (JBHI)</a>
+- name: Reviewer of ACMMM2023, ACMMM2024
 
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
 # if you keep the link to the template so that more people can benefit from it. Thanks!
 footer_text: >-
-  Copyright © 2024 <a href="https://github.com/WangRongsheng" target="_blank">Rongsheng Wang</a>. All Rights Reserved.
+  Copyright © 2024 <a href="https://github.com/hhhh1138" target="_blank">Yutong Wang</a>. All Rights Reserved.
