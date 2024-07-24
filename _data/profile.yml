@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Yutong Wang's Home Page"
 
 positions:
-  - '<span class="no-break"><img src="assets/images/badges/mpu_master.png" alt="Macao Polytechnic University" class="inline-badge"/></span> M.S., Macao Polytechnic University (2024)'
+  - '<span class="no-break"><img src="assets/images/badges/bit.jpeg" alt="Beijing Institute of Technology" class="inline-badge"/></span> M.S., Beijing Institute of Technology (2025)'
 
 email: "yutongwang1012@gmail.com"
 gscholar: SSaBaioAAAAJ
@@ -17,8 +17,7 @@ github: wangrongsheng
 # orcid: 0000-0000-0000-0000
 
 short_bio: >-
-  I am Rongsheng Wang, I used to study at Macao Polytechnic University (MPU) and work under the supervision of Prof.<a href="https://scholar.google.com/citations?hl=zh-CN&user=lLg3WRkAAAAJ">Tao Tan</a>. My research interests are computer vision, LLM, trusted LLM, RAG, and Agent systems. I am also interested in generative data research. I am currently seeking a PhD opportunity. <br> I publish a lot of open source projects on <a href="https://github.com/WangRongsheng">🔗Github</a>. I shared some of the datasets and model weights used by the project at <a href="https://huggingface.co/wangrongsheng">🔗HuggingFace</a>. I likewise like to post some small-parameter LM at <a href="https://ollama.com/wangrongsheng">🔗Ollama</a> to help people use it locally.
-
+  I am Yutong Wang, I am a second-year graduate student from the Beijing Institute of Technology under the supervision of Prof.<a href="https://dixinluo.github.io/">Dixin Luo</a>. My research interest mainly focuses on machine learning, especially multi-modal learning, optimal transport, video understanding and generation.
 show_portrait: true
 portrait_url: assets/images/photos/profile_wrs.jpg
 portrait_caption: >-
@@ -26,36 +25,33 @@ portrait_caption: >-
 
 education:
 - name: Beijing Institute of Technology
-  logo: assets/images/badges/mpu_master.png
+  logo: assets/images/badges/bit.jpeg
   position: M.S. in Computer Science
   date: Sep. 2022 - Jun. 2025
 - name: Beijing Institute of Technology
-  logo: assets/images/badges/hpu_bs.png
+  logo: assets/images/badges/bit.jpeg
   position: B.S. in Computer Science
   date: Sep. 2018 - Jun. 2022
   
 experience:
 - name: Ant Group, Alipay
-  logo: assets/images/badges/qiyuan.png
-  position: Reaserch Intern
+  logo: assets/images/badges/ant.png
+  position: Research Intern
   date: Apr. 2024 - Now
 - name: VRC Inc.
-  logo: assets/images/badges/hkust-gz.png
-  position: Reaserch Intern
+  logo: assets/images/badges/vrc.png
+  position: Research Intern
   date: Jul. 2023 -	Sep. 2023
 
 
 awards:
-- name: First Prize of Baidu PaddlePaddle AGI Hackathon
-  date: 2024
-- name: Third Prize of Digital Medical Technology and Application Innovation Competition
+- name: ACM MM Travel Grants, SIGMM
   date: 2023
-- name: Third Prize of Baichuan Intelligence and Amazon Cloud AGI Hackathon
+- name: Special Academic Scholarship, Beijing Institute of Technology
   date: 2023
-- name: Silver of Kaggle RSNA Screening Mammography Breast Cancer Detection
-  date: 2023
-- name: Winner of IEEE UV 2022 "Vision Meets Algae" Object Detection Challenge
+- name: Outstanding Graduate, Beijing Institute of Technology 
   date: 2022
+
 
 service:
 - name: Reviewer of ACMMM2023, ACMMM2024
