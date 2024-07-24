@@ -1,23 +1,20 @@
 ---
-title:          PCTMF-Net： Heart Sound Classification with Parallel CNNs-Transformer and Second-Order Spectral Analysis
-date:           2023-08-01 00:01:00 +0800
+title:          Self-supervised Video Summarization Guided by Semantic Inverse Optimal Transport
+date:           2023-10-29 00:01:00 +0800
 selected:       true
-pub:            "The Visual Computer"
-pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Journal</span>'
+pub:            "Proceedings of the 31st ACM International Conference on Multimedia, ACMMM "
+pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-warning">Poster</span>'
 pub_date:       "2023"
 abstract: >-
-  We propose a Parallel CNNs-Transformer network with multi-scale feature context aggregation (PCTMF-Net) for electrocardiogram heart sound classification, which combines CNNs and a transformer encoder to extract hierarchical features and achieves state-of-the-art performance on publicly available datasets.
+  abc
 
-cover:          assets/images/covers/pctmf.png
+cover:          assets/images/covers/OTVS.png
 authors:
-  - Rongsheng Wang
-  - Yaofei Duan
-  - Yukun Li
-  - Dashun Zheng
-  - Xiaohong Liu
-  - ChanTong Lam
-  - Tao Tan†
+  - Yutong Wang
+  - Hongteng Xu
+  - Dixin Luo†
 links:
-  Paper: https://link.springer.com/article/10.1007/s00371-023-03031-5
+  Paper: assets/paper/OTVS_ACMMM2023.pdf
+  Code: https://github.com/Dixin-Lab/Video-Summary-IOT
   Cite: assets/bibtex/wang2023pctm.bib
 ---
