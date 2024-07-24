@@ -11,7 +11,7 @@ pub_date:       "2024"
 abstract: >-
   abc
   
-cover:          assets/images/covers/lcfm_lc.png
+cover:          assets/images/covers/IPOT.png
 authors:
   - Yutong Wang*
   - Sidan Zhu*
