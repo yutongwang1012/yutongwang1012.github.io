@@ -6,7 +6,7 @@ pub:            "Proceedings of the 30th ACM International Conference on Multime
 pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span>'
 pub_date:       "2022"
 abstract: >-
-  abc
+  
   
 cover:          assets/images/covers/USFGW.png
 authors:
