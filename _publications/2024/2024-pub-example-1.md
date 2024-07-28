@@ -9,7 +9,7 @@ pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Con
 pub_date:       "2024"
 
 abstract: >-
-  abc
+  -
   
 cover:          assets/images/covers/IPOT.png
 authors:
