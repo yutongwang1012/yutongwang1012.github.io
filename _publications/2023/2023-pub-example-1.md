@@ -6,7 +6,7 @@ pub:            "Proceedings of the 31st ACM International Conference on Multime
 pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-warning">Poster</span>'
 pub_date:       "2023"
 abstract: >-
-  abc
+  -
 
 cover:          assets/images/covers/OTVS.png
 authors:
