@@ -19,6 +19,8 @@ authors:
   - Dixin Luo†
 links:
   # Paper: https://arxiv.org/abs/2407.11536
+  Arxiv: https://arxiv.org/pdf/2407.19456
   Code: https://github.com/Dixin-Lab/Automatic-Movie-Trailer-Generator
+  Page: https://hhhh1138.github.io/project-page-trailer-generator/
   
 ---
