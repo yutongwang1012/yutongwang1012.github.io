@@ -17,9 +17,9 @@ github: hhhh1138
 # orcid: 0000-0000-0000-0000
 
 short_bio: >-
-  I am Yutong Wang, I am a second-year graduate student from the Beijing Institute of Technology under the supervision of Prof.<a href="https://dixinluo.github.io/">Dixin Luo</a> and Prof.<a href="https://hongtengxu.github.io/">Hongteng Xu</a>. My research interest mainly focuses on machine learning, especially multi-modal learning, optimal transport, video understanding and generation.
+  I am Yutong Wang, I am a third-year graduate student from the Beijing Institute of Technology under the supervision of Prof.<a href="https://dixinluo.github.io/">Dixin Luo</a> and Prof.<a href="https://hongtengxu.github.io/">Hongteng Xu</a>. My research interest mainly focuses on machine learning, especially multi-modal learning, optimal transport, video understanding and generation.
 show_portrait: true
-portrait_url: assets/images/photos/wyt1.jpg
+portrait_url: assets/images/photos/wyt2.jpg
 portrait_caption: >-
   我是王瑜彤，欢迎访问我的主页~
 
@@ -45,10 +45,12 @@ experience:
 
 
 awards:
-- name: ACM MM Travel Grants, SIGMM
-  date: 2023
+- name: Travel Grant Award of ACMMM, SIGMM/MM
+  date: 2023,2024
 - name: Special Academic Scholarship, Beijing Institute of Technology
   date: 2023
+- name: Merit Student, Beijing Institute of Technology
+  date: 2022
 - name: Outstanding Graduate, Beijing Institute of Technology 
   date: 2022
 
