@@ -2,11 +2,11 @@
 title:          Efficient Video Face Enhancement with Enhanced Spatial-Temporal Consistency
 date:           2024-11-25 00:01:00 +0800
 selected:       true
-pub:            "arXiv 2411.16468"
+pub:            "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-# pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-warning">Poster</span>'
-# pub_date:       "2024"
+pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Conference</span>'
+pub_date:       "2025"
 
 abstract: >-
   -
