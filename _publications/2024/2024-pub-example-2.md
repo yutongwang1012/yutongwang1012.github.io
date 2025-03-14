@@ -24,7 +24,7 @@ links:
   # Paper: https://arxiv.org/abs/2407.11536
   Arxiv: https://arxiv.org/pdf/2411.16468
   Code: https://github.com/Dixin-Lab/BFVR-STC
-  Page: https://dixin-lab.github.io/project-page-trailer-generator/
+  Page: https://dixin-lab.github.io/project-page-BFVR-STC/
   # Demo: https://www.bilibili.com/video/BV15sWMeAE8R/?spm_id_from=333.999.0.0&vd_source=4526cf207f29ce6d50810b04d3105cfd
   
 ---
