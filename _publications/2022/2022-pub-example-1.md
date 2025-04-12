@@ -17,5 +17,5 @@ authors:
 links:
   Paper: assets/paper/USFGW_ACMMM2022.pdf
   Code: https://github.com/hhhh1138/Temporal-Action-Alignment-USFGW
-  Cite: assets/bibtex/wang2022efficientnet.bib
+  Cite: assets/bibtex/luo2022weakly.bib
 ---
