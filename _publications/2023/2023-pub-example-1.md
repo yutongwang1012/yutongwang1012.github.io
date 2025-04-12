@@ -16,5 +16,5 @@ authors:
 links:
   Paper: assets/paper/OTVS_ACMMM2023.pdf
   Code: https://github.com/Dixin-Lab/Video-Summary-IOT
-  Cite: assets/bibtex/wang2023pctm.bib
+  Cite: assets/bibtex/wang2023self.bib
 ---
