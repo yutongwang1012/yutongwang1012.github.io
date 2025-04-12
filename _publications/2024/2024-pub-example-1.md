@@ -23,5 +23,6 @@ links:
   Code: https://github.com/Dixin-Lab/Automatic-Movie-Trailer-Generator
   Page: https://dixin-lab.github.io/project-page-trailer-generator/
   Demo: https://www.bilibili.com/video/BV15sWMeAE8R/?spm_id_from=333.999.0.0&vd_source=4526cf207f29ce6d50810b04d3105cfd
+  Cite: assets/bibtex/wang2024inverse.bib
   
 ---
