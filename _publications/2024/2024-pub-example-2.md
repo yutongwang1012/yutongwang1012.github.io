@@ -5,7 +5,7 @@ selected:       true
 pub:            "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Conference</span>'
+pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-warning">Poster</span>'
 pub_date:       "2025"
 
 abstract: >-
@@ -25,6 +25,6 @@ links:
   Arxiv: https://arxiv.org/pdf/2411.16468
   Code: https://github.com/Dixin-Lab/BFVR-STC
   Page: https://dixin-lab.github.io/project-page-BFVR-STC/
-  # Demo: https://www.bilibili.com/video/BV15sWMeAE8R/?spm_id_from=333.999.0.0&vd_source=4526cf207f29ce6d50810b04d3105cfd
+  Cite: assets/bibtex/wang2024efficient.bib
   
 ---
