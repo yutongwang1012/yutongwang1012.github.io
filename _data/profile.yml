@@ -35,6 +35,10 @@ education:
   date: Sep. 2018 - Jun. 2022
   
 experience:
+- name: Shanghai AI Lab
+  logo: assets/images/badges/pjlab.png
+  position: Research Intern
+  date: Apr. 2025 - Now
 - name: Ant Group, Alipay
   logo: assets/images/badges/ant.png
   position: Research Intern
@@ -46,6 +50,8 @@ experience:
 
 
 awards:
+- name: USydIS Scholarship, USYD
+  date: 2025
 - name: National Scholarship, Ministry of Education of China
   date: 2024
 - name: Travel Grant Award of ACMMM, MM
@@ -61,7 +67,7 @@ awards:
 
 
 service:
-- name: Reviewer of ACMMM2023, ACMMM2024
+- name: Reviewer of ACMMM
 
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
 # if you keep the link to the template so that more people can benefit from it. Thanks!
