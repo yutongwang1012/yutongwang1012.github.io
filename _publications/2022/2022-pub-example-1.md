@@ -2,7 +2,7 @@
 title:          Weakly-Supervised Temporal Action Alignment Driven by Unbalanced Spectral Fused Gromov-Wasserstein Distance
 date:           2022-10-10 00:00:00 +0800
 selected:       true
-pub:            "Proceedings of the 31st ACM International Conference on Multimedia, ACMMM "
+pub:            "Proceedings of the 30st ACM International Conference on Multimedia, ACMMM "
 pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Conference</span>'
 pub_date:       "2022"
 abstract: >-
