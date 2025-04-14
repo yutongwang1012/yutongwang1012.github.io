@@ -5,7 +5,7 @@ selected:       true
 pub:            "Proceedings of the 32th ACM International Conference on Multimedia, ACMMM "
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-warning">Poster</span>'
+pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Conference</span>'
 pub_date:       "2024"
 
 abstract: >-
