@@ -3,7 +3,7 @@ title:          Weakly-Supervised Temporal Action Alignment Driven by Unbalanced
 date:           2022-10-10 00:00:00 +0800
 selected:       true
 pub:            "Proceedings of the 30th ACM International Conference on Multimedia, ACMMM "
-# pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-warning">Poster</span>'
+# pub_last:     <span class="badge badge-pill badge-custom badge-warning">Poster</span>'
 pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Conference</span>
 pub_date:       "2022"
 abstract: >-
