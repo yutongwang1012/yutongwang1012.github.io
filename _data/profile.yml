@@ -49,25 +49,25 @@ experience:
   date: Jul. 2023 -	Sep. 2023
 
 
-awards:
-- name: USydIS Scholarship, USYD
-  date: 2025
-- name: National Scholarship, Ministry of Education of China
-  date: 2024
-- name: Travel Grant Award of ACMMM, MM
-  date: 2024
-- name: Travel Grant Award of ACMMM, SIGMM
-  date: 2023
-- name: Special Academic Scholarship, Beijing Institute of Technology
-  date: 2023
-- name: Merit Student, Beijing Institute of Technology
-  date: 2022
-- name: Outstanding Graduate, Beijing Institute of Technology 
-  date: 2022
+# awards:
+# - name: USydIS Scholarship, USYD
+#   date: 2025
+# - name: National Scholarship, Ministry of Education of China
+#   date: 2024
+# - name: Travel Grant Award of ACMMM, MM
+#   date: 2024
+# - name: Travel Grant Award of ACMMM, SIGMM
+#   date: 2023
+# - name: Special Academic Scholarship, Beijing Institute of Technology
+#   date: 2023
+# - name: Merit Student, Beijing Institute of Technology
+#   date: 2022
+# - name: Outstanding Graduate, Beijing Institute of Technology 
+#   date: 2022
 
 
-service:
-- name: Reviewer of ACMMM
+# service:
+# - name: Reviewer of ACMMM
 
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
 # if you keep the link to the template so that more people can benefit from it. Thanks!
