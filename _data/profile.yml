@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Yutong Wang's Home Page"
 
 positions:
-  - '<span class="no-break"><img src="assets/images/badges/usyd.png" alt="University of Sydney" class="inline-badge"/></span> Ph.D., University of Sydney'
+  - '<span class="no-break"><img src="assets/images/badges/usyd2.png" alt="University of Sydney" class="inline-badge"/></span> Ph.D. student, University of Sydney'
 
 email: "yutongwang1012@gmail.com"
 gscholar: VR6SBLgAAAAJ
@@ -18,7 +18,7 @@ resume: assets/images/cv-yutong.pdf
 orcid: 0009-0000-2225-5037
 
 short_bio: >-
-  I am Yutong Wang,  a first-year Ph.D. student from the University of Sydney under the supervision of Prof.<a href="http://changxu.xyz/">Chang Xu.  Before that, I received my M.S. and B.S. degrees from Beijing Institute of Technology under the supervision of Prof.<a href="https://dixinluo.github.io/">Dixin Luo</a> and Prof.<a href="https://hongtengxu.github.io/">Hongteng Xu</a>. My research interest mainly focuses on machine learning, especially multi-modal learning, optimal transport, video understanding and generation.
+  I am Yutong Wang,  a first-year Ph.D. student from the University of Sydney under the supervision of Prof.<a href="http://changxu.xyz/">Chang Xu</a>.  Before that, I received my M.S. and B.S. degrees from Beijing Institute of Technology under the supervision of Prof.<a href="https://dixinluo.github.io/">Dixin Luo</a> and Prof.<a href="https://hongtengxu.github.io/">Hongteng Xu</a>. My research interest mainly focuses on machine learning, especially multi-modal learning, optimal transport, video understanding and generation.
 show_portrait: true
 portrait_url: assets/images/photos/wyt2.jpg
 portrait_caption: >-
@@ -26,7 +26,7 @@ portrait_caption: >-
 
 education:
 - name: University of Sydney
-  logo: assets/images/badges/usyd.png
+  logo: assets/images/badges/usyd2.png
   position: Ph.D. in Computer Science
   date: Sep. 2025 - Present
 - name: Beijing Institute of Technology
