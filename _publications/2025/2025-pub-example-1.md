@@ -18,12 +18,13 @@ authors:
   - Hongteng Xu
   - Dixin Luo†
 links:
-  # Paper: https://arxiv.org/abs/2407.11536
+  Paper: https://www.ijcai.org/proceedings/2025/1137.pdf
   # Arxiv: https://arxiv.org/pdf/2407.19456
-  # Code: https://github.com/Dixin-Lab/Automatic-Movie-Trailer-Generator
+  Code: https://github.com/Dixin-Lab/MMSC
   # Page: https://dixin-lab.github.io/project-page-trailer-generator/
   Demo: https://www.bilibili.com/video/BV1veQWYbExp/?spm_id_from=333.1387.collection.video_card.click
   # Cite: assets/bibtex/wang2024inverse.bib
   
 ---
+
 
