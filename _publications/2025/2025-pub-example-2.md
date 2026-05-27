@@ -1,5 +1,5 @@
 ---
-title:          VDOT: Efficient Unified Video Creation via Optimal Transport Distillation
+title:          "VDOT: Efficient Unified Video Creation via Optimal Transport Distillation"
 date:           2025-11-10 00:01:00 +0800
 selected:       true
 pub:            "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR "
