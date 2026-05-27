@@ -1,5 +1,5 @@
 ---
-title:          BEAT: Rhythm-Elastic Alignment for Agentic Music-guided Movie Trailer
+title:          "BEAT: Rhythm-Elastic Alignment for Agentic Music-guided Movie Trailer"
   Generation
 date:           2026-05-26 00:01:00 +0800
 selected:       true
