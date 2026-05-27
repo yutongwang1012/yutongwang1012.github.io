@@ -1,5 +1,5 @@
 ---
-title:          PARE: Pruning and Adaptive Routing for Efficient Video Generation
+title:          "PARE: Pruning and Adaptive Routing for Efficient Video Generation"
 date:           2026-05-26 00:01:00 +0800
 selected:       true
 pub:            "arXiv 2605.27336"
