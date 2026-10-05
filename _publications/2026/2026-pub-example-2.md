@@ -21,7 +21,7 @@ authors:
 links:
   #Paper: https://www.ijcai.org/proceedings/2025/1137.pdf
   Arxiv: https://arxiv.org/pdf/2605.27067
-  #Code: https://github.com/hhhh1138/VDOT
+  Code: https://github.com/hhhh1138/BEAT
   #Page: https://vdot-page.github.io/
   #Demo: https://www.bilibili.com/video/BV1veQWYbExp/?spm_id_from=333.1387.collection.video_card.click
   # Cite: assets/bibtex/wang2024inverse.bib
