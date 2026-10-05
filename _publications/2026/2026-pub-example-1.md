@@ -5,8 +5,8 @@ selected:       true
 pub:            "International Conference on Neural Information and Processing Systems, NeurIPS"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-# pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Conference</span>'
-# pub_date:       "2026"
+pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Conference</span>'
+pub_date:       "2026"
 
 abstract: >-
   -
