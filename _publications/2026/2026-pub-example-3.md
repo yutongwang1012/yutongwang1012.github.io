@@ -1,7 +1,7 @@
 ---
 title:          "RobustVTON: Robust Virtual Try-on Benefited from Debiased Model Adaptation"
 date:           2026-08-22 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "The 9th Chinese Conference on Pattern Recognition and Computer Vision, PRCV"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
