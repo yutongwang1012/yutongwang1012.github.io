@@ -1,7 +1,7 @@
 ---
 title:          Weakly-Supervised Movie Trailer Generation Driven by Multi-Modal Semantic Consistency
 date:           2025-8-16 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "Proceedings of the 34th International Joint Conference on Artificial Intelligence, IJCAI "
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
