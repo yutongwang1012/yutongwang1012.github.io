@@ -5,8 +5,8 @@ selected:       false
 pub:            "The 9th Chinese Conference on Pattern Recognition and Computer Vision, PRCV"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-# pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Conference</span>'
-# pub_date:       "2026"
+pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Conference</span>'
+pub_date:       "2026"
 
 abstract: >-
   -
