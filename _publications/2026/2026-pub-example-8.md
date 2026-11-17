@@ -6,7 +6,7 @@ pub:            "arXiv 2611.01112"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Tech Report</span>'
-pub_date:       "2026"
+# pub_date:       "2026"
 
 abstract: >-
   -
