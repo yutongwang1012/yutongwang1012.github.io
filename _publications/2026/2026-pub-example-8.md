@@ -1,7 +1,7 @@
 ---
 title:          "Auriga Technical Report: A Task-Agnostic Agent Harness for Zero-Shot Embodied Manipulation"
 date:           2026-11-01 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "arXiv 2611.01112"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
